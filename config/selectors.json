@@ -1,0 +1,7 @@
+{
+  "wikipedia": {
+    "title": "h1#firstHeading",
+    "infoboxRows": ".infobox tr",
+    "locationHeaderText": "Location"
+  }
+}

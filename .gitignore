@@ -1,0 +1,12 @@
+task1_verification.js
+task2_verification.js
+task3_verification.js
+
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+dist/
+
+.DS_Store
+.vscode/
